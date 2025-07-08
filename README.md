@@ -15,5 +15,5 @@ Com resultados excepcionais e bem ditatico, o aprendizado sera muito facil e sat
 ## 💭 Reflexão (Opcional)
 O material aborda temas importantes, com linguagem simples e direta. Evita nominar soluçoes e sistema, buscando trazer um conteudo abrangente que atinja o maior numero de cenarios possiveis.
 
-- [E-BOOK]([/exemplos/E-BOOK.md](https://github.com/emanuelgaio/lab-natty-or-not/blob/main/ebook_cyber_riscos.pdf))
+- [E-BOOK](ebook_cyber_riscos.pdf)
 
